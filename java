@@ -1,7 +1,6 @@
 import java.io.*;
 public class GFG {
-	public static void main(String[] args)
-	{
+	public static void main(String[] args)	{
 		int number = 7;
 		int m = 1;
 		int n;
